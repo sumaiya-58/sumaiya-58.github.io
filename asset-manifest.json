@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sumaiya-58.github.io/static/css/main.7118b749.css",
+    "main.js": "/sumaiya-58.github.io/static/js/main.dbdb5f9a.js",
+    "static/js/453.c4bb40b7.chunk.js": "/sumaiya-58.github.io/static/js/453.c4bb40b7.chunk.js",
+    "static/media/p2.png": "/sumaiya-58.github.io/static/media/p2.b7cab5eee1045998d975.png",
+    "static/media/resume.png": "/sumaiya-58.github.io/static/media/resume.14be4f5cc732f5b742c7.png",
+    "static/media/home-main.svg": "/sumaiya-58.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/sumaiya-58.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/p5.png": "/sumaiya-58.github.io/static/media/p5.d037d07943b8dcc4c190.png",
+    "static/media/p1.png": "/sumaiya-58.github.io/static/media/p1.9f9860f2cb087e3f26bb.png",
+    "static/media/logo.png": "/sumaiya-58.github.io/static/media/logo.f1320888f40b493a63d8.png",
+    "static/media/home-bg.jpg": "/sumaiya-58.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/p4.png": "/sumaiya-58.github.io/static/media/p4.b102bbf12beda6221592.png",
+    "static/media/resume.pdf": "/sumaiya-58.github.io/static/media/resume.186ea21e1af0b9316b65.pdf",
+    "static/media/p3.png": "/sumaiya-58.github.io/static/media/p3.8ea95eb3f5f2d0b51c78.png",
+    "static/media/avatar.svg": "/sumaiya-58.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/sumaiya-58.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/sumaiya-58.github.io/index.html",
+    "main.7118b749.css.map": "/sumaiya-58.github.io/static/css/main.7118b749.css.map",
+    "main.dbdb5f9a.js.map": "/sumaiya-58.github.io/static/js/main.dbdb5f9a.js.map",
+    "453.c4bb40b7.chunk.js.map": "/sumaiya-58.github.io/static/js/453.c4bb40b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7118b749.css",
+    "static/js/main.dbdb5f9a.js"
+  ]
+}
