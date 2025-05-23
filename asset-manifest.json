@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sumaiya-58.github.io/static/css/main.7118b749.css",
-    "main.js": "/sumaiya-58.github.io/static/js/main.d3556995.js",
+    "main.js": "/sumaiya-58.github.io/static/js/main.dbdb5f9a.js",
     "static/js/453.c4bb40b7.chunk.js": "/sumaiya-58.github.io/static/js/453.c4bb40b7.chunk.js",
     "static/media/p2.png": "/sumaiya-58.github.io/static/media/p2.b7cab5eee1045998d975.png",
     "static/media/resume.png": "/sumaiya-58.github.io/static/media/resume.14be4f5cc732f5b742c7.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/sumaiya-58.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/sumaiya-58.github.io/index.html",
     "main.7118b749.css.map": "/sumaiya-58.github.io/static/css/main.7118b749.css.map",
-    "main.d3556995.js.map": "/sumaiya-58.github.io/static/js/main.d3556995.js.map",
+    "main.dbdb5f9a.js.map": "/sumaiya-58.github.io/static/js/main.dbdb5f9a.js.map",
     "453.c4bb40b7.chunk.js.map": "/sumaiya-58.github.io/static/js/453.c4bb40b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7118b749.css",
-    "static/js/main.d3556995.js"
+    "static/js/main.dbdb5f9a.js"
   ]
 }
