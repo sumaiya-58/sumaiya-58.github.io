@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom font import for Inter */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Background Image Styles */
+            background-image: url('https://i.pinimg.com/736x/8b/61/fd/8b61fd2321a7e5be89fbc751a1070345.jpg');
+            background-size: cover; /* Ensures the image covers the entire background */
+            background-position: center; /* Centers the image */
+            background-repeat: no-repeat; /* Prevents the image from repeating */
+            background-attachment: fixed; /* Makes the background image fixed while scrolling */
+        }
+    </style>
+</head>
+<body class="bg-black min-h-screen flex items-center justify-center p-4">
+    <!-- The content is now directly within the body, centered -->
+    <div class="text-center max-w-md w-full">
+        <h1 class="text-3xl md:text-4xl font-bold text-orange mb-6 drop-shadow-lg">Welcome to My Portfolio</h1>
+        <p class="text-lg text-orange  mb-8 drop-shadow-md">
+            Click the button below to explore my projects and work!
+        </p>
+        <!-- This is where you'll put your actual portfolio link -->
+        <a href="https://sumaiya-portfolio-58.netlify.app/" target="_blank" rel="noopener noreferrer"
+           class="inline-block bg-orange-600 hover:bg-orange-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+            View My Portfolio
+        </a>
+    </div>
+</body>
+</html>
